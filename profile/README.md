@@ -11,10 +11,10 @@ We serve as gateway and platform for developer. Read our documentation at [docs.
 
 <h3>Integrations</h3>
 
-- [Vercel AI Sdk](https://github.com/e2b-dev/e2b-cookbook): The Vercel AI SDK is a powerful Typescript library designed to help developers build AI-powered applications. 
-- [E2B](https://docs.neosantara.xyz/e2b): Enable AI agents to execute code in secure sandbox enviroments
-- [Crewai](https://docs.neosantara.xyz/crewai): Enables multiple AI agents to collaborate effectively by assuming roles and working toward shared goals.
-- [DSPy](https://docs.neosantara.xyz/dspy): DSPy is a framework for programming language models rather than relying on static prompts. It enables you to build modular AI systems with code instead of hand-crafted prompting, and it offers methods to automatically optimize these systems.
+- [Vercel AI Sdk](https://docs.neosantara.xyz/en/using-neosantara-with-vercels-ai-sdk): The Vercel AI SDK is a powerful Typescript library designed to help developers build AI-powered applications. 
+- [E2B](https://docs.neosantara.xyz/en/e2b): Enable AI agents to execute code in secure sandbox enviroments
+- [Crewai](https://docs.neosantara.xyz/en/crewai): Enables multiple AI agents to collaborate effectively by assuming roles and working toward shared goals.
+- [DSPy](https://docs.neosantara.xyz/en/dspy): DSPy is a framework for programming language models rather than relying on static prompts. It enables you to build modular AI systems with code instead of hand-crafted prompting, and it offers methods to automatically optimize these systems.
 
 <h3>Where to find us</h3>
 
