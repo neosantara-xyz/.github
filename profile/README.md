@@ -20,6 +20,9 @@ We serve as gateway and platform for developer. Read our documentation at [docs.
 
 Need help setting up Neosantara? We are happy to connect! Give us any feedback on your experience with Neosantara. 
 <div align='center'>
+<a href="mailto:halo@neosantara.xyz" target="_blank">
+<img src="https://img.shields.io/badge/Email-halo@neosantara.xyz-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="margin-bottom: 5px;"/>
+</a>
 <a href="https://x.com/NeosantaraAI" target="_blank">
 <img src="https://img.shields.io/badge/x (twitter)-%2300acee.svg?color=000000&style=for-the-badge&logo=x&logoColor=white" alt=Twitter style="margin-bottom: 5px;"/></a> 
 </div align='center'>
