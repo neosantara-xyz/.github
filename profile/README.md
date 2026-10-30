@@ -1,33 +1,25 @@
-![Neosantara Public Preview Light](/assets/neosantara-white.png#gh-light-mode-only)
-![Neosantara Public Preview Dark](/assets/neosantara-dark.png#gh-dark-mode-only)
-
 ## About Neosantara
 
-We serve as gateway and platform for developer. Read our documentation at [docs.neosantara.xyz](https://docs.neosantara.xyz).
+Neosantara is an AI gateway built for Indonesian developers, featuring native support for AI agent development. Read our documentation at [docs.neosantara.xyz](https://docs.neosantara.xyz).
 
-<h3>Getting started</h3>
+### Getting started
 
-- Start with the [Quickstart guide in our documentation](https://neosantara.xyz/api-reference/quickstart).
+- Start with the [Quickstart guide in our documentation](https://docs.neosantara.xyz/api-reference/quickstart).
 
-<h3>Integrations</h3>
+### Integrations
 
-- [Vercel AI Sdk](https://docs.neosantara.xyz/en/using-neosantara-with-vercels-ai-sdk): The Vercel AI SDK is a powerful Typescript library designed to help developers build AI-powered applications. 
-- [E2B](https://docs.neosantara.xyz/en/e2b): Enable AI agents to execute code in secure sandbox enviroments
-- [Crewai](https://docs.neosantara.xyz/en/crewai): Enables multiple AI agents to collaborate effectively by assuming roles and working toward shared goals.
-- [DSPy](https://docs.neosantara.xyz/en/dspy): DSPy is a framework for programming language models rather than relying on static prompts. It enables you to build modular AI systems with code instead of hand-crafted prompting, and it offers methods to automatically optimize these systems.
+- [Agno](https://docs.neosantara.xyz/en/agno): Build native multi-modal agents with `agno.models.neosantara`.
+- [LiteLLM](https://docs.neosantara.xyz/en/litellm): Call models natively using the `neosantara/` provider prefix.
+- [DSPy](https://docs.neosantara.xyz/en/dspy): Optimize and compile prompts directly with our LM clients.
+- [CrewAI](https://docs.neosantara.xyz/en/crewai): Route multi-agent team workflows through our endpoints.
+- [Vercel AI SDK](https://docs.neosantara.xyz/en/using-neosantara-with-vercels-ai-sdk): Plug into Next.js using `@ai-sdk/openai`.
 
-<h3>Where to find us</h3>
+### Where to find us
 
-Need help setting up Neosantara? We are happy to connect! Give us any feedback on your experience with Neosantara. 
-<div align='center'>
-<a href="mailto:halo@neosantara.xyz" target="_blank">
-<img src="https://img.shields.io/badge/Email-halo@neosantara.xyz-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="margin-bottom: 5px;"/>
-</a>
-<a href="https://x.com/NeosantaraAI" target="_blank">
-<img src="https://img.shields.io/badge/x (twitter)-%2300acee.svg?color=000000&style=for-the-badge&logo=x&logoColor=white" alt=Twitter style="margin-bottom: 5px;"/></a> 
-</div align='center'>
+Need help setting up Neosantara? We are happy to connect!
 
-</li>
-
-<br>
-
+<div align="center">
+  <a href="mailto:halo@neosantara.xyz" target="_blank">
+    <img src="https://img.shields.io/badge/Email-halo@neosantara.xyz-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="margin-bottom: 5px;"/>
+  </a>
+</div>
