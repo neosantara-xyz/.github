@@ -4,7 +4,7 @@ Neosantara is an AI gateway built for Indonesian developers, featuring native su
 
 ### Getting started
 
-- Start with the [Quickstart guide in our documentation](https://docs.neosantara.xyz/api-reference/quickstart).
+- Start with the [Quickstart guide in our documentation](https://docs.neosantara.xyz/en#quickstart).
 
 ### Integrations
 
